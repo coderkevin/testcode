@@ -1,0 +1,11 @@
+{
+  "name": "test-express-server",
+  "version": "0.0.1",
+  "description": "A NodeJS express server inside a docker container.",
+  "main": "index.js",
+  "author": "kevin@redfenix.com",
+  "license": "MIT",
+  "dependencies": {
+    "express": "*"
+  }
+}
